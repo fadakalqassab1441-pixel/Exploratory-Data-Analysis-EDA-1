@@ -1,1 +1,0 @@
-# 05-Spatial-Filtering
